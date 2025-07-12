@@ -148,13 +148,13 @@ border: none;
     color: #8987A1;
 }
 .logo{
-    border-radius: 10px;
+   
     max-width: 1140px ;
     margin: 0 auto;
     padding: 6px 7px;
     text-align: center;
     margin-top: 2px;
 }.logo-items{
-    
+    display: flex;
     justify-content: space-around;
 }
